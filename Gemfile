@@ -2,10 +2,6 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.0.1'
 
-# Rubinius
-gem 'rubysl'
-gem 'racc'
-
 gem 'pg'
 gem 'puma'
 gem 'foreman'
