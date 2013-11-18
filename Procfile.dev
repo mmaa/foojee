@@ -1,2 +1,2 @@
-web:  rails server thin
+web:  rails server puma
 pg:   postgres
